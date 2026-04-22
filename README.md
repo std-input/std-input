@@ -8,7 +8,7 @@ Cada proyecto es una oportunidad para aprender, optimizar y compartir conocimien
 ## ⚙️ Tecnologías y herramientas
 
 - **Lenguajes:** JavaScript, TypeScript, Golang, Python, C++
-- 
+- **Areas**: Frontend, Backend, Terminal. Android
 ---
 
 ## 🚀 Proyectos destacados
@@ -37,5 +37,5 @@ Simulación del clásico Juego de la Vida en JavaScript puro.
 
 ## 📫 Contacto
 
-- 🌐 [GitHub](https://t.me/std_input)  
+- 🌐 [Telegram](https://t.me/std_input)  
 - 💬 Abierto a colaboraciones y proyectos experimentales.
