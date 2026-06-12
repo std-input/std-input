@@ -17,7 +17,7 @@ Cada proyecto es una oportunidad para aprender, optimizar y compartir conocimien
 Chat anonimo en terminal via TCP
 
 ### 🔹 Gedis  
-Base de datos en memoria, clave - valor, sin persistencia..
+Base de datos en memoria, clave - valor
 
 ### 🔹 Forg  
 Motor de búsqueda completo con crawler, indexador y frontend.
