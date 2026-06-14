@@ -25,8 +25,8 @@ Base de datos en memoria, clave - valor
 ### 🔹 Forg  
 Motor de búsqueda completo con crawler, indexador y frontend.
 
-### 🔹 Conway-Life-Game  
-Simulación del clásico Juego de la Vida en JavaScript puro.
+### 🔹 Nocloud
+Sistema de almacenamiento cloud con microservicios en Go + Fiber v3. Subida con chunking de 4MB, compresión gzip, cifrado AES-256-GCM por usuario, autenticación JWT y API Gateway unificado. 
 
 ---
 
